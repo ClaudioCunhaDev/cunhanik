@@ -62,11 +62,5 @@ Email: cunhanik1@gmail.com
 👉 #React
 #next
 
-<strong>learn in future:</strong>
-
-👉 #PHP
-#Laravel
-</div>
- 
  ##
 
