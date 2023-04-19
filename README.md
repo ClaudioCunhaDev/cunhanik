@@ -1,8 +1,7 @@
-## Hi there! JUNIOR HERE 👋
 <img alt="Cunha-pic" height="200" style="border-radius:50px;" src="https://i.gyazo.com/d14cd80f118bf5392c33d625bb34a250.png">
 
 
-## My name is Cláudio Cunha: Creator of programming and technology!
+## My name is Cláudio Cunha: Front-End Developer
 <div align="left">
   <a href="https://github.com/cunhanik">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cunhanik&show_icons=true&theme=dracula&include_all_commits=false&count_private=true"/>
@@ -32,7 +31,7 @@
   <strong>About me:</strong
  </p>
  <p>
-  I'm a 25 year old self-taught coder/programmer. I am currently studying multiple languages and hope to integrate a hardworking and passionate team in the area of Front-End development.
+  I'm a 26 year old self-taught coder/programmer. I am currently studying multiple languages and hope to integrate a hardworking and passionate team in the area of Front-End development.
 I have always been comfortable around computers, which is where my passion originated, hence my desire to pursue a career in this area.
 My past has consisted of playing esports competitively - Counter Strike: Global Offensive player: https://liquipedia.net/counterstrike/Cunha
 
